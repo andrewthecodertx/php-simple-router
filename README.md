@@ -49,11 +49,10 @@ You can then handle and manipulate the response as needed.
 echo $response->getBody();
 ```
 
-## Contributing
-
-Contributions are welcome! Feel free to submit a pull request.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
-for details.
+MIT, see [LICENSE](LICENSE).
+
+## Contributing
+
+PRs welcome. Please open an issue first for major changes.
